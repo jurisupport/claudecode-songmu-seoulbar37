@@ -16,7 +16,7 @@
 Claude Code 데스크톱 앱의 Code 탭에 아래 문장을 붙여 넣으면 됩니다.
 
 ```
-github.com/jurisupport/claudecode-songmu-seoulbar37 저장소의 「실습사건_대여금」 폴더 PDF 12개를 지금 작업 중인 폴더 안에 「실습_대여금사건」 하위 폴더를 만들어 내려받아줘. 다 받으면 파일 목록을 보여줘.
+github.com/jurisupport/claudecode-songmu-seoulbar37 저장소에서 두 폴더를 지금 작업 중인 폴더 안에 하위 폴더로 내려받아줘. ① 「실습사건_대여금」의 PDF 12개는 「실습_대여금사건」 폴더로 ② 「실습_꿀팁예시」 폴더는 통째로 같은 이름으로. 다 받으면 폴더별 파일 목록을 보여줘.
 ```
 
 터미널 없이 받으려면 이 페이지 위쪽 초록색 `Code` 버튼 → `Download ZIP` → 압축을 풉니다. Windows에서 ZIP을 풀면 한글 폴더명이 깨질 수 있습니다. 그때는 위 문장으로 받으세요.
