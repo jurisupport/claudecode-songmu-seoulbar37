@@ -1,0 +1,62 @@
+{
+  "title": "상관모욕죄 판례 변경 (대법원 2022도5937 전원합의체)",
+  "style": "flat",
+  "style_prompt": "Flat vector illustration, simple geometric shapes, muted navy, beige and gray palette, clean uncluttered background, people drawn without facial details, calm explanatory mood.",
+  "top_title": "상관 욕 한마디, 다 상관모욕죄일까",
+  "voice": "Zephyr",
+  "end_card": {"title": "○○ 법률사무소", "lines": ["일반 정보이며 개별 사안은 다를 수 있습니다"]},
+  "cuts": [
+    {
+      "n": 1,
+      "narration": "상관 욕 한마디, 다른 사람이 들었다면 무조건 상관모욕죄일까요?",
+      "subtitle": "다른 사람이 들었다면 무조건 상관모욕죄?",
+      "image_prompt": "A young navy sailor on a ship bridge looking frustrated, two other crew members working at consoles in the background, sea visible through the windows.",
+      "source": "도입 질문(사실 주장 없음)"
+    },
+    {
+      "n": 2,
+      "narration": "군형법 상관모욕죄는 3년 이하의 징역이나 금고로 처벌합니다. 벌금형이 없습니다.",
+      "board": {"title": "군형법 제64조 제2항", "lines": ["3년 이하의 징역이나 금고", "벌금형 없음"]},
+      "source": "판결 이유 1. 다. 2) 조문 인용"
+    },
+    {
+      "n": 3,
+      "narration": "대법원은 1999년부터, 여러 사람이 알 수 있는 상태에서 모욕하면 이 죄가 된다고 봤습니다.",
+      "subtitle": "1999년부터: 여러 사람이 알 수 있으면 성립",
+      "image_prompt": "Several soldiers chatting casually in a military barracks lounge, one speaking while others listen, relaxed atmosphere.",
+      "source": "판결 이유 1. 다. 3) 대법원 1999. 11. 12. 선고 99도3801 판결 등"
+    },
+    {
+      "n": 4,
+      "narration": "2026년 7월 22일, 대법원 전원합의체가 이 판례를 바꿨습니다.",
+      "board": {"title": "대법원 2026. 7. 22. 선고 2022도5937 전원합의체 판결", "lines": ["99도3801 판결 등 변경"]},
+      "source": "판결 이유 3. 판례의 변경"
+    },
+    {
+      "n": 5,
+      "narration": "이제는 문서나 그림을 내걸거나 연설하는 것, 또는 그에 맞먹는 공개적인 방법이어야 합니다.",
+      "board": {"title": "성립하는 방법", "lines": ["문서·도화·우상을 공시", "연설", "이에 상응하는 공연한 방법"]},
+      "source": "판결 이유 2. 대법원의 판단 첫 문단"
+    },
+    {
+      "n": 6,
+      "narration": "함정 조타실에서 세 명이 듣는 가운데 지휘관 엉망이다라고 말한 사건은, 상관모욕죄가 아니라고 봤습니다.",
+      "subtitle": "조타실에서 세 명이 들은 말 → 상관모욕죄 아님",
+      "image_prompt": "Interior of a small naval patrol ship's bridge, a sailor taking off a headset in anger, three crew members at their own stations nearby, no one facing him.",
+      "source": "판결 이유 1. 가. 공소사실 요지, 4. 이 사건에 관한 판단"
+    },
+    {
+      "n": 7,
+      "narration": "화가 나서 충동적으로 한 말이었고, 옆 사람들은 일하다가 우연히 들었을 뿐이라는 이유입니다.",
+      "subtitle": "충동적인 한마디, 우연히 들은 사람들",
+      "image_prompt": "Three crew members focused on radar and navigation screens on a ship bridge, one glancing over his shoulder briefly.",
+      "source": "판결 이유 4. 이 사건에 관한 판단"
+    },
+    {
+      "n": 8,
+      "narration": "다만 형법상 모욕죄나 징계 대상은 여전히 될 수 있습니다.",
+      "board": {"title": "그래도 남는 책임", "lines": ["형법 제311조 모욕죄", "징계처분"]},
+      "source": "판결 이유 2. 마. 1)"
+    }
+  ]
+}
