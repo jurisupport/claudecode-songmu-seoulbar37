@@ -21,6 +21,24 @@ github.com/jurisupport/claudecode-songmu-seoulbar37 저장소에서 두 폴더�
 
 터미널 없이 받으려면 이 페이지 위쪽 초록색 `Code` 버튼 → `Download ZIP` → 압축을 풉니다. Windows에서 ZIP을 풀면 한글 폴더명이 깨질 수 있습니다. 그때는 위 문장으로 받으세요.
 
+## 강의에서 소개한 스킬
+
+모두 아래 「도구 설치」 문장 하나로 함께 설치됩니다.
+
+| 스킬 | 하는 일 | 저장 위치 |
+|---|---|---|
+| korean-law (MCP) | 법령·조문·판결 원문 조회 | [korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) |
+| legal-books | 사무소 보유 교과서 검색(저자·서명·판차·쪽수 인용) | [legal-books](https://github.com/jurisupport/legal-books) |
+| legal-calc | 기간 만료일·일수·지연손해금 계산 | [plugins/jurisupport/skills/legal-calc](https://github.com/jurisupport/jurisupport-plugins/tree/main/plugins/jurisupport/skills/legal-calc) |
+| privacy-consent-interview | 개인정보 처리방침·동의서 초안 문답 | [plugins/jurisupport/skills/privacy-consent-interview](https://github.com/jurisupport/jurisupport-plugins/tree/main/plugins/jurisupport/skills/privacy-consent-interview) |
+| law-forms | 법령·법원 서식(hwpx) 채우기 | [skills/law-forms](https://github.com/jurisupport/jurisupport-plugins/tree/main/skills/law-forms) |
+| promo-content | 판결 → 블로그·쇼츠 원고·컷시트·SNS 글, 광고 규정 점검 | [plugins/jurisupport/skills/promo-content](https://github.com/jurisupport/jurisupport-plugins/tree/main/plugins/jurisupport/skills/promo-content) |
+| explainer-video | 컷시트 → 설명 영상 | [plugins/jurisupport/skills/explainer-video](https://github.com/jurisupport/jurisupport-plugins/tree/main/plugins/jurisupport/skills/explainer-video) |
+| narration-shorts | 쇼츠 원고 → 내레이션 쇼츠 | [plugins/jurisupport/skills/narration-shorts](https://github.com/jurisupport/jurisupport-plugins/tree/main/plugins/jurisupport/skills/narration-shorts) |
+| legal-polish-public | 법률문서 문장 다듬기 | [legal-polish-public](https://github.com/jurisupport/legal-polish-public) |
+
+핸드아웃에서 「강사 PC」로 표시한 지시문은 강사 PC의 개인 스킬로 시연한 것입니다. 이 스킬들은 공개 묶음에 들어 있지 않습니다.
+
 ## 도구 설치
 
 플러그인·스킬 설치는 https://github.com/jurisupport/jurisupport-plugins 를 따릅니다.
